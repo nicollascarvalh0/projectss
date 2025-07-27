@@ -91,7 +91,7 @@ const Home = (props: props) => {
               className="text-violet-500 cursor-pointer link link-underline link-underline-violet-500"
               onClick={() => handleClickScroll(contactSectionRef)}
             >
-              Pedro Silva
+              Nícollas Carvalho
             </strong>
             , I&apos;m {myAge} years old and I&apos;m Pernambucan{" "}
             <Emoji symbol="BR" />. I started coding since I was 15 years old and
